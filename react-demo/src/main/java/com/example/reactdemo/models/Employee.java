@@ -21,8 +21,6 @@ public class Employee {
     @Column(name = "first_name")
     private String firstName;
 
-    private String jenkinscheck;
-
     @Column(name = "last_name")
     private String lastName;
 
